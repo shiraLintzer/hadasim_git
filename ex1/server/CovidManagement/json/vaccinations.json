@@ -1,0 +1,18 @@
+[
+
+    {
+        "userId":"326303674",
+        "vaccinationNumber":"1",
+        "manufacturer":"Pfizer"
+    },
+    {
+        "userId":"326303674",
+        "vaccinationNumber":"2",
+        "manufacturer":"Pfizer"
+    },
+    {
+        "userId":"987654321",
+        "vaccinationNumber":"1",
+        "manufacturer":"Pfizer"
+    }
+]

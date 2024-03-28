@@ -1,0 +1,57 @@
+[
+    {
+        "id": "326303674",
+        "fullName": {
+            "firstName": "Adam",
+            "lastName": "Jackson"
+        },
+        "birthDate": "01.01.2004",
+        "phone": "035709876",
+        "cellphone": "0509873517",
+        "address": {
+            "city": "New York City",
+            "street": "Fifth Avenue",
+            "number": "39"
+        },
+        "positiveTestDate": "",
+        "recoveryDate": ""
+    },
+    {
+        "id": "027286632",
+        "fullName": {
+            "firstName": "Ben",
+            "lastName": "Black"
+        },
+        "birthDate": "17.01.1996",
+        "phone": "035709876",
+        "cellphone": "0509873517",
+        "address": {
+            "city": "Chicago",
+            "street": "Trailer Park",
+            "number": "159"
+        },
+        "positiveTestDate": "",
+        "recoveryDate": ""
+    },
+    {
+        "id": "987654321",
+        "fullName": {
+            "firstName": "Jack",
+            "lastName": "Carl"
+        },
+        "birthDate": "10.12.1987",
+        "phone": "035709876",
+        "cellphone": "0509873517",
+        "address": {
+            "city": "Miami",
+            "street": "Lincoln Road",
+            "number": "198"
+        },
+        "positiveTestDate": "",
+        "recoveryDate": ""
+    }
+
+
+
+
+]

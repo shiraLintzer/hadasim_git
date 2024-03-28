@@ -1,0 +1,28 @@
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.exe
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.deps.json
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.runtimeconfig.json
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.dll
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.pdb
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.AssemblyInfoInputs.cache
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.AssemblyInfo.cs
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.dll
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\refint\TwitterTowers-Ex2.dll
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.pdb
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.genruntimeconfig.cache
+C:\Users\שירה\source\repos\dotNet5783_3674\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\ref\TwitterTowers-Ex2.dll
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.exe
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.deps.json
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.runtimeconfig.json
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.dll
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\bin\Debug\net7.0\TwitterTowers-Ex2.pdb
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.AssemblyInfoInputs.cache
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.AssemblyInfo.cs
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.csproj.CoreCompileInputs.cache
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.dll
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\refint\TwitterTowers-Ex2.dll
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.pdb
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\TwitterTowers-Ex2.genruntimeconfig.cache
+C:\Shira\‏‏תיקיה חדשה\TwitterTowers-Ex2\TwitterTowers-Ex2\obj\Debug\net7.0\ref\TwitterTowers-Ex2.dll
